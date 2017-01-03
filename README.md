@@ -7,4 +7,6 @@ Section: CMSC 137 B-3L
 
 Description: A mini web server implemented using the Java Programming Language
 
-To run the project:  java WebServer <port number>
+To run the project:  
+  Run the server: java WebServer (input port number)
+  Using a browser: localhost:PORT/FILENAME(e.g html, css, js) or ipaddress:PORT/FILENAME(e.g. html, css, js)
